@@ -319,6 +319,12 @@ For questions or issues:
 3. Create an issue in the repository
 4. Contact the maintainers
 
+## CLI command to download the DocLayNet dataset
+```
+wget https://codait-cos-dax.s3.us.cloud-object-storage.appdomain.cloud/dax-doclaynet/1.0.0/DocLayNet_core.zip
+wget https://codait-cos-dax.s3.us.cloud-object-storage.appdomain.cloud/dax-doclaynet/1.0.0/DocLayNet_extra.zip
+```
+
 ---
 
 **Note**: This project is designed for educational and research purposes. For production use, consider additional optimizations, security measures, and thorough testing.
